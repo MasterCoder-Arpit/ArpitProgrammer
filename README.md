@@ -12,8 +12,8 @@ I'm a tech enthusiast who loves programming from India.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=ArpitProgrammer&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitProgrammer&theme=tokyonight&layout=compact)
+![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=MasterCoder-Arpit&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCoder-Arpit&theme=tokyonight&layout=compact)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
